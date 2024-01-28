@@ -15,7 +15,7 @@ This project provides a simple web-based tool for generating strong random passw
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/random-password-generator.git
+   git clone https://github.com/PranavMohan07/Password-Generator.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
