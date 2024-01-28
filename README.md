@@ -54,12 +54,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Your Name]
-
-## Contact
-
-For questions or feedback, please contact [your.email@example.com].
-
----
+Pranav Mohan
 
 Thank you for using the Random Password Generator!
